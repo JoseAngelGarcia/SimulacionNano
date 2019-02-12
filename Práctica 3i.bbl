@@ -1,0 +1,20 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[eli(2019)]{elisawebp3}
+01 2019.
+\newblock URL \url{https://elisa.dyndns-web.com/teaching/comp/par/p3.html}.
+
+\bibitem[url(2019)]{url1}
+02 2019.
+\newblock URL \url{https://plus.maths.org/content/os/issue2/erlang/index}.
+
+\bibitem[Siqueiros()]{ref1}
+Gerardo Fabian~Peraza Siqueiros.
+\newblock \emph{Tesis}, pages 9--10.
+
+\end{thebibliography}
